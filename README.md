@@ -8,7 +8,7 @@ The program was created using the library **OMP** for C++. It calculates the fir
 
 # How to run
 
-This program need a C++ Compiler to run. The program was tested using **GNU C++ Compiler**. Also if you want to run the program with more of 1 thread is necessary to set the number of threads variable.
+This program needs a C++ Compiler to run. The program was tested using **GNU C++ Compiler**. Also if you want to run the program with more of 1 thread is necessary to set the number of threads variable.
 
 So, for the compilation you need to run:
 
